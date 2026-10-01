@@ -1,0 +1,4 @@
+/vendor/
+/output/results.csv
+/composer.phar
+.DS_Store

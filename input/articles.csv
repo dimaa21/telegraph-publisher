@@ -1,0 +1,20 @@
+Title,Author,Content
+"PHP automation note","Dmytro","This article was created automatically from input.csv.
+
+The blank line above becomes a second paragraph."
+"Second note, with a comma","Dmytro","A short follow-up article for the same CSV run.
+
+The blank line above becomes a third paragraph."
+"This is 3 automatically publication.","Dmytro","Third article text.
+
+The blank line above becomes a fourth paragraph."
+"This is 4 automatically publication.","Dmytro","Fourth article text."
+
+The blank line above becomes a five paragraph."
+"This is 5 automatically publication.","Ivan","Five article text."
+
+The blank line above becomes a sixth paragraph."
+"This is 6 automatically publication.","Petro","Sixth article text."
+
+The blank line above becomes a 7 paragraph."
+"This is 7 automatically publication.","Mike","7 article text."
